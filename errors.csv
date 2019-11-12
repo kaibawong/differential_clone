@@ -1,0 +1,56 @@
+﻿Crude;Density;Sulphur;Error type;Error
+Bonny light ;light;Sweet;Linear scaled MSE;0.687898621
+Bonny light ;light;Sweet;Non.linear scaled MSE;0.62534206
+Bonny light ;light;Sweet;RF scaled MSE;0.570203081
+Bonny light ;light;Sweet;MD scaled MSE;0.948076923
+Maya USGC;Heavy;Sour;Linear scaled MSE;0.949290732
+Maya USGC;Heavy;Sour;Non.linear scaled MSE;0.754064511
+Maya USGC;Heavy;Sour;RF scaled MSE;0.901502662
+Maya USGC;Heavy;Sour;MD scaled MSE;0.718706066
+BTC Azeri;light;Sweet;Linear scaled MSE;0.279927388
+BTC Azeri;light;Sweet;Non.linear scaled MSE;1
+BTC Azeri;light;Sweet;RF scaled MSE;0.133901026
+BTC Azeri;light;Sweet;MD scaled MSE;0.471627171
+Oseberg;light;Sweet;Linear scaled MSE;0.860675883
+Oseberg;light;Sweet;Non.linear scaled MSE;0.831941244
+Oseberg;light;Sweet;RF scaled MSE;0.670439708
+Oseberg;light;Sweet;MD scaled MSE;0.916666667
+ORL;light;Sweet;Linear scaled MSE;0.157680497
+ORL;light;Sweet;Non.linear scaled MSE;1
+ORL;light;Sweet;RF scaled MSE;0.154136304
+ORL;light;Sweet;MD scaled MSE;0.410883541
+Ural NWE;Medium;Medium;Linear scaled MSE;0.24604
+Ural NWE;Medium;Medium;Non.linear scaled MSE;0.35089
+Ural NWE;Medium;Medium;RF scaled MSE;0.08358
+Ural NWE;Medium;Medium;MD scaled MSE;1
+Arab light;Medium;Medium;Linear scaled MSE;0.556847686
+Arab light;Medium;Medium;Non.linear scaled MSE;1
+Arab light;Medium;Medium;RF scaled MSE;0.390854197
+Arab Heavy;Heavy;Sour;Linear scaled MSE;0.823282839
+Arab Heavy;Heavy;Sour;Non.linear scaled MSE;0.574664745
+Arab Heavy;Heavy;Sour;RF scaled MSE;0.770497847
+Dubai;Medium;Medium;Linear scaled MSE;0.921983356
+Dubai;Medium;Medium;Non.linear scaled MSE;0.70806602
+Dubai;Medium;Medium;RF scaled MSE;0.661314869
+Tapis;light;Sweet;Linear scaled MSE;1
+Tapis;light;Sweet;Non.linear scaled MSE;0.760260701
+Tapis;light;Sweet;RF scaled MSE;0.679843286
+Maya Europe;Heavy;Sour;Linear scaled MSE;0.837832226
+Maya Europe;Heavy;Sour;Non.linear scaled MSE;0.644866049
+Maya Europe;Heavy;Sour;RF scaled MSE;0.618210915
+Urals MED;Medium;Medium;Linear scaled MSE;0.166227839
+Urals MED;Medium;Medium;Non.linear scaled MSE;0.33643372
+Urals MED;Medium;Medium;RF scaled MSE;0.017958225
+Urals MED;Medium;Medium;MD scaled MSE;1
+Mars;Medium;Medium;Linear scaled MSE;1
+Mars;Medium;Medium;Non.linear scaled MSE;0.464692503
+Mars;Medium;Medium;RF scaled MSE;0.631842641
+Mars;Medium;Medium;MD scaled MSE;0.837554041
+WTI;light;Sweet;Linear scaled MSE;0.475203325
+WTI;light;Sweet;Non.linear scaled MSE;0.623595495
+WTI;light;Sweet;RF scaled MSE;0.293318414
+WTI;light;Sweet;MD scaled MSE;1
+Dalia;Heavy;Sweet;Linear scaled MSE;0.310924334
+Dalia;Heavy;Sweet;Non.linear scaled MSE;0.32255574
+Dalia;Heavy;Sweet;RF scaled MSE;0.270242475
+Dalia;Heavy;Sweet;MD scaled MSE;1
