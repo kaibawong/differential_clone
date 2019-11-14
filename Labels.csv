@@ -1,0 +1,89 @@
+﻿Origin,Name of Crude,API,S,Category,Column1,Logistical Problems
+US,Alaska North Slope CIF USWC,37.6,0.17,Light,Sweet,Yes
+Saudi Arabia,Arab Extra Light/Berry-Asia,39.5,1.07,Light,Sour,No
+Saudi Arabia,Arab Extra Light/Berry-US,39.5,1.07,Light,Sour,No
+Saudi Arabia,Arab Heavy-Asia,27.6,2.94,Medium,Sour,No
+Saudi Arabia,Arab Heavy-Europe,27.6,2.94,Medium,Sour,No
+Saudi Arabia,Arab Heavy-US,27.6,2.94,Medium,Sour,No
+Saudi Arabia,Arab Light-Asia,33,1.83,Medium,Sour,No
+Saudi Arabia,Arab Light-Europe,33,1.83,Medium,Sour,No
+Saudi Arabia,Arab Light-US,33,1.83,Medium,Sour,No
+Saudi Arabia,Arab Medium-Asia,30.5,2.56,Medium,Sour,No
+Saudi Arabia,Arab Medium-Europe,30.5,2.56,Medium,Sour,No
+Saudi Arabia,Arab Medium-US,30.5,2.56,Medium,Sour,No
+Saudi Arabia,Arab Super Light-Asia,51.4,0.05,Light,Sweet,No
+Norway,Asgard CIF RTD,49.5,0.18,Light,Sweet,No
+Azerbaijan,Azeri BTC,37.6,0.17,Light,Sweet,No
+Azerbaijan,Azeri Light (Supsa),34.8,0.15,Light,Sweet,No
+US,Bakken,40.9,0.16,Light,Sweet,Yes
+Iraq,Basrah Heavy-Asia,23.6,4.2,Heavy,Sour,No
+Iraq,Basrah Heavy-Europe,23.6,4.2,Heavy,Sour,No
+Iraq,Basrah Light-Asia,30.2,2.52,Medium,Sour,No
+Iraq,Basrah Light-Europe,30.2,2.52,Medium,Sour,No
+Iraq,Basrah Light-US,30.2,2.52,Medium,Sour,No
+Nigeria,Bonny Light,33.5,0.16,Medium,Sweet,No
+UK,BrentNinian,38.3,0.37,Light,Sweet,No
+Angola,Cabinda,32.5,0.12,Medium,Sweet,No
+Canada,Canadian Mixed Sweet Blend,40.1,0.39,Light,Sweet,Yes
+Colombia,Castilla,18.4,1.85,Heavy,Sour,No
+Indonesia,Cinta,31.1,0.09,Medium,Sweet,No
+Canada,Condensate Blend CRW,67.6,0.11,Light,Sweet,Yes
+Kazakhstan,CPC,45.3,0.56,Light,Sweet,No
+Angola,Dalia,22.9,0.5,Heavy,Sweet,No
+Sudan,Dar Blend,25,0.11,Medium,Sweet,No
+UAE,Das Blend,39.7,1.13,Light,Sour,No
+UAE,Dubai,30.4,2.13,Medium,Sour,No
+Denmark,Duc,34.5,0.25,Light,Sweet,No
+Indonesia,Duri,21.5,0.14,Heavy,Sweet,No
+US,Eagle Ford,47,0.11,Light,Sweet,Yes
+Norway,Ekofisk,38.9,0.21,Light,Sweet,No
+Libya,Es Sider,36.71,0.37,Light,Sweet,No
+Argentina,Escalante,24.3,0.19,Heavy,Sweet,No
+Russia,Espo M1,34.8,0.16,Light,Sweet,No
+US,Eugene Island,33.05,1.16,Medium,Sour,No
+Nigeria,Forcados,31.5,0.22,Medium,Sweet,No
+UK,Forties,40.3,0.56,Light,Sweet,No
+Angola,Girassol,29.9,0.32,Medium,Sweet,No
+Norway,Grane,28.4,0.62,Medium,Sour,No
+Norway,Gullfaks,39.1,0.22,Light,Sweet,No
+Angola,Hungo,28.3,0.64,Medium,Sour,No
+Iran,Iranian Heavy Europe,29.4,1.44,Medium,Sour,No
+Iran,Iranian Light Europe,33.1,1.98,Medium,Sour,No
+US,Kern River,12.8,1.11,Heavy,Sour,No
+Angola,Kissanje,29.8,0.38,Medium,Sweet,No
+Kuwait,Kuwait OSP,30.5,2.52,Medium,Sour,No
+US,LLS,36.8,0.33,Light,Sweet,No
+Brazil,Marlim,19.2,0.78,Heavy,Sour,No
+US,Mars,29.3,1.8,Medium,Sour,No
+Mexico,Maya OSP-Asia,20.3,3.72,Heavy,Sour,No
+Mexico,Maya OSP-Europe,20.3,3.72,Heavy,Sour,No
+Mexico,Maya OSP-US,20.3,3.72,Heavy,Sour,No
+Indonesia,Minas,36,0.08,Light,Sweet,No
+Malaysia,Miri Light,32.3,0.14,Medium,Sweet,No
+UAE,Murban,39.6,0.79,Light,Sour,No
+Ecuador,Napo,19,1.94,Heavy,Sour,No
+Australia,NW Shelf,60,0.01,Light,Sweet,No
+Oman,Oman,33,1.14,Medium,Sour,No
+Ecuador,Oriente,24,1.2,Heavy,Sour,No
+Norway,Oseberg,38.5,0.24,Light,Sweet,No
+Angola,Pazflor,25.6,0.41,Medium,Sweet,No
+Angola,Plutonio,32.6,0.39,Medium,Sweet,No
+Qatar,Qatar LSC,56.9,0.01,Light,Sweet,No
+Nigeria,QuaIboe,35.2,0.12,Light,Sweet,No
+Brazil,Roncador,28.3,0.58,Medium,Sweet,No
+Algeria,Saharan Blend,45.3,0.1,Light,Sweet,No
+Russia,Sakhalin Blend,43.4,0.16,Light,Sweet,No
+Russia,Siberian Light CIF Aug,35.1,0.53,Light,Sweet,No
+Russia,Sokol,38,0.23,Light,Sweet,No
+Norway,Statfjord,39.5,0.22,Light,Sweet,No
+Norway,Statfjord-CIF,39.5,0.22,Light,Sweet,No
+Malaysia,Tapis,45.2,0.03,Light,Sweet,No
+Norway,Troll,35.9,0.14,Light,Sweet,No
+UAE,Upper Zakum,34,1.81,Medium,Sour,No
+Russia,Urals CIF MED,31,1.34,Medium,Sour,No
+Russia,Urals CIF Rotterdam,31,1.34,Medium,Sour,No
+Colombia,Vasconia,24.3,0.86,Heavy,Sour,No
+Canada,WCS,20.2,3,Heavy,Sour,Yes
+US,WTI Cushing 1Mo Platts,38.8,0.38,Light,Sweet,Yes
+US,WTI MEH,42.3,0.09,Light,Sweet,Yes
+US,WTS Cushing,33,1.71,Medium,Sour,Yes
