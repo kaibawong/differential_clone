@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/kaibawong-differential_clone-geu0mq6a/",
+  "base_url": "/user/kaibawong-differential_clone-hb3qbx85/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "ZIzIcmEnT5qj70b4PVNcTQ",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/kaibawong-differential_clone-geu0mq6a/"
+  "token": "sWZshfuhREO-TZECHpyEGg",
+  "url": "http://0.0.0.0:8888/user/kaibawong-differential_clone-hb3qbx85/"
 }
