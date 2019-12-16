@@ -119,5 +119,7 @@ dependencies:
     - statsmodels==0.10.1
     - toolz==0.10.0
     - traittypes==0.2.1
+    - plotly
+    - cufflinks
 prefix: /srv/conda/envs/notebook
 
